@@ -7,6 +7,11 @@ I've been learning about development and coding since 2020 and I'm passionate ab
  - 📍 From Brasília, Brazil 
  - 🌱 Currently learning languages like Python, Javascript, Java, C and Elixir; 
  - 🤔 Looking for opportunities to work with coding and development in a good company;
+ 
+ 
+ 
+ 
+ 
 
 Reach me out 👇
 
