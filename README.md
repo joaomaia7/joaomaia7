@@ -15,4 +15,4 @@ I've been learning about development and coding since 2020 and I'm passionate ab
 
 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-maia-costa-1325421b3/)](https://www.linkedin.com/in/jo%C3%A3o-victor-maia-costa-1325421b3/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-maia-costa-1325421b3/)](https://www.linkedin.com/in/joaovmaia/)
